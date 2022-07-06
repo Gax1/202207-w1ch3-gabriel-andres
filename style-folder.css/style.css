@@ -1,1 +1,8 @@
+html {
+  font-family: nunito, sans-serif;
+}
 
+.first-div {
+  display: flex;
+  flex-direction: row;
+}
